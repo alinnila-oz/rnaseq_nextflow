@@ -1,0 +1,20 @@
+# Nextflow runtime state and logs
+.nextflow/
+.nextflow*
+work/
+
+# Pipeline outputs
+results/
+
+# Local reference genomes, annotations, and indexes
+reference/
+
+# Locally installed third-party tools
+tools/
+
+# Sequencing input data
+data/
+
+# Operating-system/editor files
+.DS_Store
+*.swp

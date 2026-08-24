@@ -1,0 +1,5 @@
+sample,condition,read1,read2
+SRR25276746,Ssh1,data/SRR25276746_1.fastq,data/SRR25276746_2.fastq
+SRR25276747,Ssh1,data/SRR25276747_1.fastq,data/SRR25276747_2.fastq
+SRR25276748,SC,data/SRR25276748_1.fastq,data/SRR25276748_2.fastq
+SRR25276749,SC,data/SRR25276749_1.fastq,data/SRR25276749_2.fastq
